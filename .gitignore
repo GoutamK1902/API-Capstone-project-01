@@ -13,6 +13,9 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 #solution
 solution.ejs
 solution.js
+object.txt
+utils
+utils/nextHandler.mjs
 
 # Runtime data
 pids
